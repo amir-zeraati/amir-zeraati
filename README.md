@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I am Amir Zeraati, an AI research engineer, so much passionate about Artificial Intelligence.
+### Tech Stack 🔭
+Python
 <!--
 **amir-zeraati/amir-zeraati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
