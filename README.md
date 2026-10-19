@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Amir Zeraati, an AI research engineer, so much passionate about Artificial Intelligence.
+I am Amir Zeraati, an AI research engineer, and so much passionate about Artificial Intelligence.
 ### Tech Stack 🔭
 Python
 <!--
